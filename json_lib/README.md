@@ -19,7 +19,7 @@
   - `crypt.encrypt_json(unencerypted_json_object)`      \-For encrypting the json object
   - `crypt.decrypt_json(encerypted_json_object)`      \-For decrypting the json object
   
- 
+> `demo.py` file explain  all the methods of `pyobjcrypto`
  # Note
  
 > This module is created by the inspiration of python lib `objcrypt`.
